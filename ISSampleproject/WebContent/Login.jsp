@@ -1,6 +1,7 @@
 <html>
 <body>
  	<form action="login" method="post">
+ 	
 	<table>
 		<tr>
 			<td>Email</td>
@@ -12,6 +13,7 @@
 		</tr>
 		<tr>
 			<td><button type = "Submit" >Login</button></td>
+			<td><a href="file:///D:/projects/ISSampleproject/WebContent/Register.jsp">Register</a> </td>
 		</tr>	
 	</table>
 	</form>

@@ -1,7 +1,7 @@
 <html>
 <body>
    
- 	<form action="Home" method="post">
+ 	<form action="ChangePswd" method="GET">
  
 	<table>
 		<tr>
